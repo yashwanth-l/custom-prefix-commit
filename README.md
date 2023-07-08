@@ -27,7 +27,7 @@ repos:
   # ...
   # ...
   - repo: https://github.com/yashwanth-l/custom-prefix-commit
-    rev: v0.1.0
+    rev: v0.1.1
     hooks:
     - id: customPrefixCommit
 ```
