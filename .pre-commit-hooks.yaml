@@ -1,0 +1,7 @@
+---
+- id: customPrefixCommit
+  name: customPrefixCommit
+  entry: customPrefixCommit.sh
+  language: script
+  stages: [commit-msg]
+  description: Utility to validate the commit message to check for Ticket and Semantic Messages
